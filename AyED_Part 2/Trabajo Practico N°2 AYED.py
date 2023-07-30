@@ -1,7 +1,6 @@
 
 
 # Trabajo Práctico 2 - AyED Comisión 102
-# Integrantes: Maximiliano Gomez, Axel Jurista, Godoy Valentin, Jeffrey Wetzel
 
 # -----------------------------------------------------------------------------------------------------
 # Librerias
